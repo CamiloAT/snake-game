@@ -15,7 +15,7 @@ Developed by: **Camilo Andres Arias Tenjo**
 
 *   **Dynamic Difficulty:** Three tailored levels (Easy, Medium, Hard) that directly modify the snake's initial length, movement speed, and spawn rates for both food and obstacles.
 *   **Progressive Speed:** As the snake eats, its speed gradually increases frame-by-frame until reaching a maximum cap limit of 0.05s.
-*   **Custom Score Strategy:** Every time the snake eats an orange (food), the score increases by exactly one unit, regardless of the active difficulty tier.
+*   **Custom Score Strategy:** Every time the snake eats a mouse (food), the score increases by exactly one unit, regardless of the active difficulty tier.
 *   **Data Persistence:** Locally saves the game configuration (`Files/Config.txt`) and historical score data (`Files/Data.JSON`).
 *   **Information & History Dashboard:** Easily accessible history and general information panels via intuitive buttons located at the top right of the main menu.
 
