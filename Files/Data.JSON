@@ -48,6 +48,13 @@
       "hour": "17:05:15",
       "score": "12",
       "level": "Dificil"
+    },
+    {
+      "name": "Brenda",
+      "date": "2026-05-02",
+      "hour": "22:13:29",
+      "score": "2",
+      "level": "Dificil"
     }
   ]
 }
