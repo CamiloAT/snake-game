@@ -9,6 +9,12 @@
 
 **Snake Game** is a highly interactive desktop game developed strictly in Java. It features persistent high scores and settings, dynamic levels of difficulty, and a custom UI. The project focuses on object-oriented programming, local file management, and graphical user interfaces using Java Swing.
 
+### Gameplay Demo
+
+<div align="center">
+  <video src="videos/Gameplay.mp4" controls="controls" width="100%" muted="muted"></video>
+</div>
+
 Developed by: **Camilo Andres Arias Tenjo**
 
 ## Key Features
