@@ -12,7 +12,7 @@
 ### Gameplay Demo
 
 <div align="center">
-  <video src="videos/Gameplay.mp4" controls="controls" width="100%" muted="muted"></video>
+  <video src="https://github.com/user-attachments/assets/2d9ff34f-edbf-4c14-aad6-5c4f2aabd4b4" controls="controls" width="100%" muted="muted"></video>
 </div>
 
 Developed by: **Camilo Andres Arias Tenjo**
