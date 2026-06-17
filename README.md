@@ -8,11 +8,13 @@
 A classic Snake Game implementation in Java featuring persistent high scores, progressive difficulty, and a custom UI built with Swing.
 
 ---
-### Gameplay Demo
+
+## Gameplay Demo
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/2d9ff34f-edbf-4c14-aad6-5c4f2aabd4b4" controls="controls" width="100%" muted="muted"></video>
 </div>
+
 ---
 
 ## Main Features
